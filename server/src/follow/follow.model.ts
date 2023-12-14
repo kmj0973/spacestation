@@ -16,7 +16,7 @@ const FollowSchema = new Schema<FollowSchemaType>({
     type: Schema.Types.ObjectId,
     ref: "user",
     required: true,
-  }
+  },
 });
 
 const FollowModel = model("follow", FollowSchema);
