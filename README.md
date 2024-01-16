@@ -2,6 +2,11 @@
 [spacestation](http://kdt-sw-7-team03.elicecoding.com/) 배포링크입니다.
 <br />
 <br />
+
+## :clapper:프로젝트 소개
+- [인스타그램](https://www.instagram.com/)과 [오늘의 집](https://ohou.se/)을 모티브로 만든 나만의 공간을 자랑하는 SNS 웹 서비스입니다.
+<br />
+
 ## :file_folder:프로젝트 실행 방법 및 구조
 - 각 폴더의 .env.sample 파일을 참고하여 .env 파일 생성 후 값을 넣어주어야 합니다.
 
@@ -39,11 +44,8 @@
        ┃ ┃ ┣ feed.model.ts
        ┃ ┃ ┣ feed.router.ts
        ┃ ┃ ┗ feed.service.ts
-
-## :clapper:프로젝트 소개
-- [인스타그램](https://www.instagram.com/)과 [오늘의 집](https://ohou.se/)을 모티브로 만든 나만의 공간을 자랑하는 SNS 웹 서비스입니다.
 <br />
-
+  
 ## :clock2:개발 기간
 - 2023.12.11 ~ 2023.12.29
 <br />
