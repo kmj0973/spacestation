@@ -5,7 +5,7 @@
 ## :file_folder:프로젝트 실행 방법 및 구조
 - 각 폴더의 .env.sample 파일을 참고하여 .env 파일 생성 후 값을 넣어주어야 합니다.
 
-- client
+### client
   
       git clone https://github.com/kmj0973/spacestation.git
       cd client
@@ -13,13 +13,14 @@
       npm run dev
 
 
-- server
+### server
 
       cd server
       npm install
       npm run dev
 
-- 프로젝트 구조
+### 프로젝트 구조
+- 프로젝트 구조는 팀원 모두가 풀스택으로 진행하였기에, 작업의 편의성을 위하여 각 컴포넌트 폴더에 api, hooks, styles 파일을 만들어서 작업하였습니다.
 
       client
        ┣ src
