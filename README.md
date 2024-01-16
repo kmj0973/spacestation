@@ -65,11 +65,11 @@
 |:--------------------:|:--------------------:|
 | 좋아요, 북마크 기능 | 게시물 업로드 페이지 | 
 
-| ![Animation](https://github.com/kmj0973/spacestation/assets/92308258/aa6cb5a7-ac8f-4455-a7c3-6fd4dc9e3ee3) | ![Animation](https://github.com/kmj0973/spacestation/assets/92308258/b2af3bf9-98c6-4f31-9bac-7418c1604119) |
+| ![Animation](https://github.com/kmj0973/spacestation/assets/92308258/aa6cb5a7-ac8f-4455-a7c3-6fd4dc9e3ee3) | ![Animation](https://github.com/kmj0973/spacestation/assets/92308258/d3e3f506-5127-4858-8b19-b9a5709cb9a9)|
 |:--------------------:|:--------------------:|
 | 게시물 수정, 삭제 기능 | 해쉬태그, 장소 페이지 | 
 
-| ![Animation](https://github.com/kmj0973/spacestation/assets/92308258/3089a716-997a-4f63-85e2-5ae718521292) | ![Animation](https://github.com/kmj0973/spacestation/assets/92308258/8dda7af4-815b-4dd1-b4d1-d4f748ed2ed6)|
+| ![Animation](https://github.com/kmj0973/spacestation/assets/92308258/3d15aaa3-0e8f-466b-8392-43ac6420c8db)| ![Animation](https://github.com/kmj0973/spacestation/assets/92308258/8dda7af4-815b-4dd1-b4d1-d4f748ed2ed6)|
 |:--------------------:|:--------------------:|
 | 검색 페이지 | 팔로우, 팔로잉 기능 | 
 
