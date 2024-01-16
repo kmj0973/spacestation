@@ -1,7 +1,7 @@
 # 🚀SpaceStation - SNS 웹 서비스
-[spacestation](http://kdt-sw-7-team03.elicecoding.com/)배포링크
-<br/>
-
+[spacestation](http://kdt-sw-7-team03.elicecoding.com/) 배포링크입니다.
+<br />
+<br />
 ## :file_folder:프로젝트 실행 방법 및 구조
 - 각 폴더의 .env.sample 파일을 참고하여 .env 파일 생성 후 값을 넣어주어야 합니다.
 
@@ -41,11 +41,11 @@
 
 ## :clapper:프로젝트 소개
 - [인스타그램](https://www.instagram.com/)과 [오늘의 집](https://ohou.se/)을 모티브로 만든 나만의 공간을 자랑하는 SNS 웹 서비스입니다.
-
+<br />
 
 ## :clock2:개발 기간
 - 2023.12.11 ~ 2023.12.29
-
+<br />
 
 ## :family:팀원 소개
 - 오강산(팀장) : 프로젝트 구조 설계, 게시물 컴포넌트 및 API 구현
@@ -54,6 +54,7 @@
 - 서슬빈 : 댓글,대댓글 컴포넌트 및 API 구현
 - 정현지 : 헤더 컴포넌트 구현, 좋아요, 북마크, #태그 컴포넌트 및 API 구현
 - 홍소현 : UI 디자인, 프로필 컴포넌트 및 API 구현
+<br />
 
 ## :closed_book:주요 기능
 
@@ -61,17 +62,18 @@
 |:--------------------:|:--------------------:|
 | 메인, 카테고리 페이지 | 프로필 페이지 | 
 
-| ![Animation](https://github.com/kmj0973/spacestation/assets/92308258/30f7b504-2964-4d71-8027-5d5956265909) |![Animation](https://github.com/kmj0973/spacestation/assets/92308258/a6c16c74-e2d1-4c54-8683-3d67dca2f3a6)|
+|![Animation](https://github.com/kmj0973/spacestation/assets/92308258/a6c16c74-e2d1-4c54-8683-3d67dca2f3a6) | ![Animation](https://github.com/kmj0973/spacestation/assets/92308258/aa6cb5a7-ac8f-4455-a7c3-6fd4dc9e3ee3) |
 |:--------------------:|:--------------------:|
-| 좋아요, 북마크 기능 | 게시물 업로드 페이지 | 
+| 게시물 업로드 페이지 | 게시물 수정, 삭제 기능 |
 
-| ![Animation](https://github.com/kmj0973/spacestation/assets/92308258/aa6cb5a7-ac8f-4455-a7c3-6fd4dc9e3ee3) | ![Animation](https://github.com/kmj0973/spacestation/assets/92308258/d3e3f506-5127-4858-8b19-b9a5709cb9a9)|
+| ![Animation](https://github.com/kmj0973/spacestation/assets/92308258/30f7b504-2964-4d71-8027-5d5956265909) | ![Animation](https://github.com/kmj0973/spacestation/assets/92308258/d3e3f506-5127-4858-8b19-b9a5709cb9a9)|
 |:--------------------:|:--------------------:|
-| 게시물 수정, 삭제 기능 | 해쉬태그, 장소 페이지 | 
+| 좋아요, 북마크 기능 | 해쉬태그, 장소 페이지 | 
 
 | ![Animation](https://github.com/kmj0973/spacestation/assets/92308258/3d15aaa3-0e8f-466b-8392-43ac6420c8db)| ![Animation](https://github.com/kmj0973/spacestation/assets/92308258/8dda7af4-815b-4dd1-b4d1-d4f748ed2ed6)|
 |:--------------------:|:--------------------:|
 | 검색 페이지 | 팔로우, 팔로잉 기능 | 
+<br />
 
 ## 🔧커밋 컨벤션
 
